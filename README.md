@@ -107,7 +107,4 @@
        alt='Roberto's favorite languages" />
 </a>
   
-<a href="https://github.com/rmcn92">
-  <img align="center"
-       src="https://github-readme-stats.vercel.app/api?username=rmcn92&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=nord" />
-</a>
+
